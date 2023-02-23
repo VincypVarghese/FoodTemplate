@@ -1,0 +1,61 @@
+/* author:vincy*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.banner {
+    background-image: url(../images/background/agency-slider-04.jpg);
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main {
+    padding: 0;
+    margin: 0;
+}
+.tasty {
+    background-color: #ede6ba;
+}
+.restmenu {
+    background-image: url(../images/background/restaurant-menu-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+}
+.para {
+    font-size: 10px;
+}
+.content {
+    background-image: url(../images/background/fitness-about-bg.jpg);
+    /* min-height: 100vh; */
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+.content_h {
+    color: brown;
+}
+.restaur {
+    background-image: url(../images/background/hero-bg9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.restaur {
+    padding-top: 15rem;
+}
+.booktable {
+    background-image: url(../images/background/hero-bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+.icons {
+    width: 24px;
+    stroke: rgb(235, 180, 112);
+}
+.icon_round {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
